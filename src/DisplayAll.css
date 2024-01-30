@@ -1,0 +1,14 @@
+.display-all {
+    background-color: rgba(14, 13, 13, 0.879);
+    padding: 30px;
+}
+
+.no-review-message {
+    background-color: rgb(255, 140, 0);
+    margin: 30px;
+    border-radius: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    
+}

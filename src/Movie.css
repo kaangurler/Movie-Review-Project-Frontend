@@ -1,0 +1,64 @@
+.movie-li {
+    background-color:  rgb(212, 144, 27);
+    margin: 50px;
+    margin-right: 300px;
+    margin-left: 200px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 1px 2px 9px #e2ddd2;
+}
+
+.title-field {
+    font-size: larger;
+    color: rgba(235, 185, 179, 0.979);
+    background-color: rgba(53, 48, 44, 0.787);
+    border-radius: 5px;
+    text-align:center;
+    padding: 5px;
+    box-shadow: 1px 2px 9px #ecdebb;
+}
+
+.genre-field {
+    font-size: larger;
+    color: rgba(235, 185, 179, 0.979);
+    background-color: rgba(53, 48, 44, 0.787);
+    border-radius: 5px;
+    text-align:center;
+    margin-top: 20px;
+    padding: 5px;
+    box-shadow: 1px 2px 9px #ecdebb;
+}
+
+.rating-field {
+    font-size: larger;
+    color: rgb(228, 210, 188);;
+    background-color: rgba(126, 29, 18, 0.966);
+    border-radius: 5px;
+    text-align:center;
+    padding: 5px;
+    margin-top: 20px;
+    box-shadow: 1px 2px 9px #ecdebb;
+}
+
+.review-page-button {
+    color: rgba(24, 15, 13, 0.979);
+    background-color: rgba(236, 226, 218, 0.787);
+    border-radius: 5px;
+    text-align:center;
+    margin-top: 20px;
+    margin-left: 400px;
+    padding: 5px;
+    box-shadow: 1px 2px 9px #ecdebb;
+}
+
+.display-all button:hover {
+    color: rgba(24, 15, 13, 0.979);
+    background-color: rgba(236, 226, 218, 0.502);
+    border-radius: 5px;
+    text-align:center;
+    margin-top: 20px;
+    margin-left: 400px;
+    padding: 5px;
+    box-shadow: 1px 2px 9px #ecdebb;
+}
+

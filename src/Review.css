@@ -1,0 +1,40 @@
+.review-li {
+    background-color:  rgb(212, 144, 27);
+    margin: 40px;
+    margin-right: 300px;
+    margin-left: 200px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 1px 2px 9px #cfc5b1;
+}
+.field-userName {
+    font-size: larger;
+    color: rgba(235, 185, 179, 0.979);
+    background-color: rgba(53, 48, 44, 0.787);
+    border-radius: 5px;
+    text-align:center;
+    padding: 5px;
+    box-shadow: 1px 2px 9px #ecdebb;
+}
+
+.field-comment {
+    color: rgb(228, 210, 188);
+    background-color: rgba(53, 48, 44, 0.787);
+    border-radius: 5px;
+    text-align:center;
+    padding: 5px;
+    margin-top: 20px;
+    box-shadow: 1px 2px 9px #ecdebb;
+}
+
+.field-rating {
+    font-size: larger;
+    color: rgb(228, 210, 188);;
+    background-color: rgba(126, 29, 18, 0.966);
+    border-radius: 5px;
+    text-align:center;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 800px;
+    box-shadow: 1px 2px 9px #ecdebb;
+}

@@ -1,0 +1,16 @@
+.form{
+    background-color: rgb(255, 140, 0);
+    border-radius: 20px;
+    padding: 20px;
+    padding-inline-start: 50px;
+    margin-top: 20px;
+    padding-inline-end: 50px; 
+}
+
+.form input {
+    margin-left: 10px;
+}
+
+.form div{
+    padding: 5px;
+}

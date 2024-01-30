@@ -1,0 +1,7 @@
+nav {
+    background-color: rgb(188, 50, 50);
+    color: blanchedalmond;
+    padding-left: 50px;
+    padding: 10px;
+    display: 'flex';
+}
